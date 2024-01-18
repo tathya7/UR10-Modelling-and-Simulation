@@ -13,9 +13,9 @@ It's important to note that the presented environment is a simulation, not the a
 
 ## Getting Started
 
-1. Clone this repository: git clone https://github.com/your-username/automated-blood-sample-robot.git
-2. Navigate to the project directory: cd automated-blood-sample-robot
-3. Install dependencies: rosdep install --from-paths src --ignore-src -r -y
-4. Build the workspace: colcon build
-5. Source the setup file: source install/setup.bash
-6. Launch the robot control node: ros2 launch ur10 robot_control.launch.py
+1. Clone this repository: git clone : https://github.com/tathya7/Automated-Blood-Sample-Handling-Robot.git
+3. Navigate to the project directory: cd automated-blood-sample-robot
+4. Install dependencies: rosdep install --from-paths src --ignore-src -r -y
+5. Build the workspace: colcon build
+6. Source the setup file: source install/setup.bash
+7. Launch the robot control node: ros2 launch ur10 robot_control.launch.py
